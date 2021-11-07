@@ -10355,7 +10355,7 @@ nav ul li a:hover {
 
 /*-- banner --*/
 .w3l-banner {
-  background: url(../images/cake123.jpg) no-repeat center;
+  background: url(../images/cake_main.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -12013,7 +12013,7 @@ h2.title {
 /*-- //team --*/
 /* stats */
 section.w3_stats {
-  background: linear-gradient(to right, rgba(25, 25, 25, 0.7), rgba(0, 0, 0, 0.7)), url(../images/cake123.jpg) no-repeat center;
+  background: linear-gradient(to right, rgba(25, 25, 25, 0.7), rgba(0, 0, 0, 0.7)), url(../images/cake_main.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
